@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	height: 100vh;
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #04adea;
+	overflow: hidden;
+    font-size: 36px;
+}
+
+.tooltip-box {
+	display: flex;
+	justify-content: space-between;
+	width: 400px;
+}
+
+.tooltip {
+	position: relative;
+}
+
+.tooltip::before {
+	display: none;
+	position: absolute;
+	width: 100%;
+	padding: 0.5em 1em;
+	border-radius: 8px;
+	background-color: #999;
+	font-size: 14px;
+}
+
+.tooltip{
+    margin: 30px;;
+}
+
+.tooltip:hover::before{
+display: block;
+}
+
+.tooltip-top::before{
+    content:'lorem 123' ;
+    bottom: 130%;
+}
+.tooltip-right::before{
+    content:'lorem 123' ;
+    left: 110%;
+}
+
+
+
