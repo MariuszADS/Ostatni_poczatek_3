@@ -1,0 +1,7 @@
+1. Na początku stworzyć strone czarno-białą a potem popatrzyć jakie kolory są/mogą być acjentujące 
+(dobrze sprawdzają się 3-kolorowe strony )              https://colorhunt.co/       https://coolors.co/
+
+2. starać oscylowac w granicy szerwonego kwadratu jesli chodzi o wybor kolorow zeby nie kozystac z samych skrajnosci tablicy kolorow FOLDER IMG
+
+
+3. zwracac uwage na contrast ratio aby były dwa ptaszki przy widoczności
