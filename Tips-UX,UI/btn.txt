@@ -1,0 +1,3 @@
+Przyciski mają być w jednym kolorze i kształcie 
+
+Padinngi są: jesli na górze i dole  przyjujemy 20px czyli 100% to na bokach jest 10px czyli 50%

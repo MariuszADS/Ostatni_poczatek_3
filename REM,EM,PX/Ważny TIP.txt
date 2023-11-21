@@ -1,0 +1,1 @@
+zawsze robić strone w REM lub EM ponieważ to są jednostki responsywne, i nie trzeba robic dwa razy tej samej rzeczy

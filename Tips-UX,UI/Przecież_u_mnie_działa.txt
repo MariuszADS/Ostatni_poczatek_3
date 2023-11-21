@@ -1,0 +1,2 @@
+Przy tworzeniu strony nie patrzyć tylko na swój monitro jak się wyświtla strona/txt,
+ale brać również pod uwagę, że inni mogą mnieć mniejsze lub wieksze ekrany więc strona będzie się wyświetlać nie poprawnie

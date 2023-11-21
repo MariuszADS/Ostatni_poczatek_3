@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/* zawsze na stronie jest przyjęte ze 100% to 16px więc 62.5% = 10px lub po prostu 10px   */
+html{
+    /* font-size: 10px; */
+    font-size: 62.5%;        
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	height: 100vh;
+	font-family: serif;
+	font-size: 48px;
+	background-color: gray;
+	/* background-image: linear-gradient(); */
+}
+
+p{
+    margin: 20px 0;
+}
+
+.px{
+    font-size: 48px;
+}
+
+.rem{
+    font-size: 4.8rem;
+}
+
+.em{
+    font-size: 4.8em;
+}
+
